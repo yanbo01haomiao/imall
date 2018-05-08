@@ -5,3 +5,5 @@ Imall_learning 使用Maven管理的SSM简单的商城项目
 配置好Tomcat；
 配置IDEA的Git终端：点击terminal的时候都会弹出git bash的窗口，
 设置的git安装目录下的bash，试改成bin目录下的启动文件即可。
+
+05-08:创建V1.0分支，将从分支开发，之后整合到master。顺便熟悉git操作。
