@@ -1,0 +1,41 @@
+*.class
+
+#package file
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#kdiff3 ignore
+*.orig
+
+#maven ignore
+target/
+
+#eclipse ignore
+.settings/
+.project
+.classpath
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#temp file, Log file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# BlueJ files
+*.ctxt
+
+#System ignore
+.DS_Store
+Thumbs.db
+
